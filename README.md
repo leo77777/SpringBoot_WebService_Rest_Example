@@ -10,11 +10,11 @@ All in one java file :
        
 2. Mapping Object/Relational : with Jpa/Hibernate 
        
-3. Creation of a interface Repository on Students and Laboratories : with Spring-Data 
+3. Creation of interface Repositories on Students and Laboratories : with Spring-Data 
 
-4. Creation of a WebService Rest on Students and Laboratories : with Spring Rest-Controler 
+4. Creation of WebServices Rest on Students and Laboratories : with Spring Rest-Controler 
 
-5. Creation of a WebService Rest      on Students and Laboratories : with Spring-Data-Rest \
+5. Creation of WebServices Rest on Students and Laboratories : with Spring-Data-Rest \
    Creation of a projection on Students
 
 6. Fill the database using studentRepositorie and laboratoryRepository
