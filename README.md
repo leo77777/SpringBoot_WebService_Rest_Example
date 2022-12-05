@@ -11,8 +11,8 @@ All in one java file :
 
 3. Creation of a WebService Rest on Students and Laboratories : with Spring Rest-Controler 
 
-4. Creation of a interface Repository on Students and Laboratories : with Spring-Data\
-   Creation of a WebService Rest      on Students and Laboratories : with Spring-Data-Rest
-   Creation of a projection on Students\
+4. Creation of a interface Repository on Students and Laboratories : with Spring-Data
+   Creation of a WebService Rest      on Students and Laboratories : with Spring-Data-Rest \
+   Creation of a projection on Students
 
 5. Fill the database using studentRepositorie and laboratoryRepository
