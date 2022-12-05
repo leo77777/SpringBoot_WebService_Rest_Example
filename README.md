@@ -17,9 +17,9 @@ All in one java file :
 
 6. Fill the database using studentRepositorie and laboratoryRepository
 
-Rest-controler :
-http://localhost:8080/api/students
-http://localhost:8080/api/laboratories
+Rest-controler : <br>
+http://localhost:8080/api/students <br>
+http://localhost:8080/api/laboratories <br>
 
 ![image](https://user-images.githubusercontent.com/39586770/205640678-7b1336b1-5414-4a2c-897d-ce189ff7dc6c.png)
 
@@ -27,10 +27,10 @@ http://localhost:8080/api/laboratories
 
 
 
-SpringDataRest :
-http://localhost:8080/laboratories
-http://localhost:8080/students
-http://localhost:8080/students/1?projection=p1
+SpringDataRest : <br>
+http://localhost:8080/laboratories <br>
+http://localhost:8080/students <br>
+http://localhost:8080/students/1?projection=p1 <br>
 
 ![image](https://user-images.githubusercontent.com/39586770/205640968-1af8a389-201f-4692-81c7-7e0d71a61fe3.png)
 
