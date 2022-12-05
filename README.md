@@ -5,7 +5,7 @@ Spring_WebService_Rest_Example : All in one java file ! Lombok, Jpa/Hibernate, S
 All in one java file :
 
 1 . Creation of 2 entities : Students and Laboratories with Lombok \
-    (relationship oneToMany between Laboratories and Students)
+       (relationship oneToMany between Laboratories and Students)
 
 2. Mapping Object/Relational : with Jpa/Hibernate 
 
