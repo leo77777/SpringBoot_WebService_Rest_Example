@@ -7,7 +7,7 @@ All in one java file :
 1 . Creation of 2 entities : Students and Laboratories with Lombok \
        (relationship oneToMany between Laboratories and Students)
        
-2. Mapping Object/Relational : with Jpa/Hibernate \
+2. Mapping Object/Relational : with Jpa/Hibernate 
        
 3. Creation of a interface Repository on Students and Laboratories : with Spring-Data 
 
